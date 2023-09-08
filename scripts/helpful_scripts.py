@@ -1,6 +1,5 @@
 from brownie import network, config, accounts, MockV3Aggregator
 
-# https://paypal.me/miguelangelgafe?country.x=AR&locale.x=es_XC
 DECIMALS = 8
 STARTING_PRICE = 20000000000
 
